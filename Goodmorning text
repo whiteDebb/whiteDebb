@@ -1,0 +1,6 @@
+phone_number = "+17038947479"
+# enter the target phone number inside quotation marks. use the format "+15555555555"
+message = ["Goodmorning Baby"]
+# just make sure the message is inside quotation marks. An example is "Did you sleep well?"
+scheduled_time = "07:00"
+# make sure the hour has 2 digits (24-hour standard).
